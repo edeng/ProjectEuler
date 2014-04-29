@@ -1,3 +1,6 @@
+# Eden Ghirmai, www.projecteuler.net
+# finds the largest prime factor of 600851475143
+
 import math
 def prime(n):
 	for x in range (int(n / 2), 1, -1):
